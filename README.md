@@ -3,4 +3,4 @@ La cartella ShowerSize2_s1+s2 contiene:
 - i Grafici dello stesso tipo di quelli contenuti nella cartella Graifici1 solo modificati rispetto alla Smeared Energy del "nuovo" noise
 - il foglio Excel aggiornato con i nuovi dati
 
-Smear2.C è il codice utilizzato per i plots di ShoweSize2_s1+s2
+Smear2.C è il codice utilizzato per i plots di ShowerSize2_s1+s2
