@@ -12,11 +12,11 @@ Inoltre nelle cartelle T1,T20,T40 sono riportati, nei file CrD.., il numero dei 
 - Erel raffiguranti i grafici di Erel in funzione di E e di ErelSmeared in funzione di ESmeared (quest'ultimo considera       l'energia con lo smear dei grafici verdi dei plot)
 - RMS raffiguranti la sigma di Erel e la sigma di ErelSmeared rispettivamente in funzione di E e di ESmeared (sempre relativa al grafico verde)
 
-3)Foglio Excel MUonE in cui Smeared (5x5) è riferito al grafico rosso mentre Smeared (whole) al grafico verde delle energie
+3) Foglio Excel MUonE in cui Smeared (5x5) è riferito al grafico rosso mentre Smeared (whole) al grafico verde delle energie
 
 La cartella ShowerSize3 contiene:
 1) Le cartelle T1 T20 con i plot di theta, delta theta, E, Erel in cui sia gli angoli che le energie sono stati valutati considerando una matrice 7x7 attorno al cristallo col massimo di energia. Lo smearing (grafico rosso) non considera il termine fisso s2
-2)Il foglio Excel MUonE con i dati relativi ai plot
+2) Il foglio Excel MUonE con i dati relativi ai plot
 
 La cartella ShowerSize2 contiene:
 1) Le cartelle T1 T20 T40 con i plot di theta, delta theta, E, Erel in cui sia gli angoli che le energie sono stati valutati considerando una matrice 5x5 attorno al cristallo col massimo di energia. Lo smearing (grafico rosso) non considera il termine fisso s2
