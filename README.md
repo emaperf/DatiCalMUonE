@@ -5,7 +5,7 @@ E, Erel presentano la sovrapposizione di tre grafici:
 - in nero, la somma delle energie su tutti i cristalli, senza smearing
 - in verde, l'energia dei cristalli interni con lo smearing dell'elettronica e del termine fisso (s1+s2)
 - in rosso, l'energia di cristalli con lo smearing nel blocco 5x5 attorno al massimo;
-Inoltre nelle cartelle T1,T20,T40 sono riportati, nei file CrD.., il numero dei cristalli interni illuminati
+Inoltre nelle cartelle T1,T20,T40 sono riportati, nei file CrD.., il numero dei cristalli interni illuminati.
 
 2) Nella cartella Grafici i file:
 - Delta raffiguranti i grafici di Delta e sigmaDelta in funzione di E
