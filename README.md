@@ -1,3 +1,8 @@
+La cartella AngleCompare contiene:
+il foglio Excel Angle.ods in cui sono riportati tutti i dati relativi agli angoli valutati considerando una matrice 3x3, 5x5 e 7x7 attorno al cristallo col massimo e i grafici di delta e sigma delta riferiti alle matrici 3x3 e 5x5 per un confronto
+ 
+La cartella ShowerSize1 in cui ci sono tutti i plots, divisi per target (inseriti per confrontare i grafici degli angoli considerando diverse matrici attorno al cristallo col massimo)
+
 La cartella ShowerSize2_s1+s2 contiene:
 1) i Plots, divisi in base al target urtato (T1, T20, T40), in cui sono riportati i plots di theta, delta theta, E, Erel; 
 theta e delta theta sono ottenuti considerando una matrice 5x5 attorno al cristallo con massima energia; 
