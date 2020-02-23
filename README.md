@@ -1,3 +1,8 @@
+La cartella DeltaZeta contiene:
+- le cartelle T1, T20, T40 contenenti i file AngleD... in cui in alto sono riportati gli stessi grafici di Theta e DeltaTheta presenti in TwobyTwo_s1+s2, mentre in basso i gafici di Theta e Delta Theta valutati considerando un delta zeta determinato in funzione dell'energia (con noise) relativa alla matrice 5x5 attorno al cristallo con energia massima, tramite un fit dei valori di DeltaTheta riportati nei file T..Fit.pdf;
+- un foglio Excel DeltaTheta.ods in cui sono riportati i dati utilizzati
+- la macro DeltaZeta.C in cui è riportato il calcolo di deltazeta.
+
 La cartella AngleCompare contiene:
 il foglio Excel Angle.ods in cui sono riportati tutti i dati relativi agli angoli valutati considerando una matrice 3x3, 5x5 e 7x7 attorno al cristallo col massimo e i grafici di delta e sigma delta riferiti alle matrici 3x3 e 5x5 per un confronto
  
